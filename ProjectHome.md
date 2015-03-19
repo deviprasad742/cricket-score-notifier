@@ -1,0 +1,1 @@
+An eclipse based plugin for receiving live cricket score updates.
